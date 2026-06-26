@@ -10,4 +10,4 @@ st.write("3.We have best teacher and staff for your childern")
 st.write("thank you")
 st.write("For more detalis go to about us")
 if st.button("About Us"):
-       st.switch_page("pages/About Us.py")
+       st.switch_page("pages/About us.py")
